@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/RitudhwajA/sts-resize-test.git
-    targetRevision: HEAD
+    targetRevision: testing-branch
     path: dev
   destination:  
     server: https://kubernetes.default.svc
